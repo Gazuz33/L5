@@ -174,7 +174,7 @@ public class GraphicsDisplay extends JPanel {
             canvas.fill(lastMarker);
         }
 
-    }
+    } //
 
     private void paintLabels(Graphics2D canvas) {
         canvas.setColor(Color.BLACK);
